@@ -3,7 +3,7 @@ import { FaPaw, FaMedal, FaGamepad } from "react-icons/fa";
 import { BsCode, BsEmojiSunglasses } from "react-icons/bs";
 export const topics = [
   {
-    name: "development",
+    name: "coding",
     icon: <BsCode />,
   },
   {
